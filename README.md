@@ -1,4 +1,6 @@
 # Hi there, I'm Aeyouline Margaret Arceo! 👋
+![Uploading image.png…]()
+
 
 I am **Aeyouline Margaret Arceo**, a tech enthusiast with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program, and I am continuously expanding my knowledge in software development and cloud data systems.
 
