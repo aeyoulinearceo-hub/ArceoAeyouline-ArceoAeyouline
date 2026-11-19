@@ -11,8 +11,11 @@ I am **Aeyouline Margaret Arceo**, a tech enthusiast with a flair for coding and
 ---
 
 ### 📜 Certifications
-* [Oracle Cloud Infrastructure 2026 AI Certified Foundations Associate](#) 
-* [Oracle Cloud Infrastructure 2026 Certified Foundations Associate](#) 
+* [Oracle Cloud Infrastructure 2026 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=67C651F7EA133D9301CE6F2F92EF1A38517DB248AA40F6CE562135AF3E0C4B52)
+* [Oracle Cloud Infrastructure 2026 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C5B74606225D0E1C7DECFE32C4F4DF7F02CADA50300F7E16D74E8FF612E1F3E1)
+* [Oracle AI Cloud Database Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0301364AFFD42239B171EE3E06D8D9181079AF8A950C166F4170054A430FFE59)
+
+---
 
 ### 🛠️ Skill Sets
 
@@ -32,5 +35,5 @@ I am **Aeyouline Margaret Arceo**, a tech enthusiast with a flair for coding and
 ---
 
 ### 📫 You may reach me at:
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
-* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arceo.aeyoulinemargaret@gmail.com) 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aeyouline-margaret-arceo-619185431)
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arceo.aeyoulinemargaret@gmail.com)
