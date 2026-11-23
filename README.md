@@ -21,16 +21,16 @@ I am **Aeyouline Margaret Arceo**, a tech enthusiast with a flair for coding and
 
 **Programming Languages:**  
 Java
-JavaScript
+ ,JavaScript
 
 **Databases:**  
 IBM DB2
 
 **Tools & Technologies:**  
 HTML5
-Eclipse
-Lucidchart
-Figma
+,Eclipse
+,Lucidchart
+,Figma
 Visual Code
 
 ---
