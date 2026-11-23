@@ -35,5 +35,5 @@ Jaspersoft Studio
 ---
 
 ### 📫 You may reach me at:
-LinkedIn(https://www.linkedin.com/in/aeyouline-margaret-arceo-619185431)
-Gmail(mailto:arceo.aeyoulinemargaret@gmail.com)
+LinkedIn: (https://www.linkedin.com/in/aeyouline-margaret-arceo-619185431)
+Gmail:(mailto:arceo.aeyoulinemargaret@gmail.com)
