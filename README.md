@@ -1,5 +1,4 @@
 # Hi there, I'm Aeyouline Margaret Arceo! 👋
-<img width="960" height="1280" alt="AEYOULINE" src="https://github.com/user-attachments/assets/bd4adb5d-4756-4250-8008-f5120a81cfa7" />
 
 I am **Aeyouline Margaret Arceo**, a tech enthusiast with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program, and I am continuously expanding my knowledge in software development and cloud data systems.
 
@@ -21,20 +20,20 @@ I am **Aeyouline Margaret Arceo**, a tech enthusiast with a flair for coding and
 ### 🛠️ Skill Sets
 
 **Programming Languages:**  
-![Java]
-! [JavaScript]
+Java
+JavaScript
 
 **Databases:**  
-![IBM DB2]
+IBM DB2
 
 **Tools & Technologies:**  
-![HTML5]
-![Eclipse] 
-![Lucidchart]
-![Jaspersoft Studio]
+HTML5
+Eclipse
+Lucidchart
+Jaspersoft Studio
 
 ---
 
 ### 📫 You may reach me at:
-* [![LinkedIn](https://www.linkedin.com/in/aeyouline-margaret-arceo-619185431)
-* [![Gmail](mailto:arceo.aeyoulinemargaret@gmail.com)
+LinkedIn(https://www.linkedin.com/in/aeyouline-margaret-arceo-619185431)
+Gmail(mailto:arceo.aeyoulinemargaret@gmail.com)
