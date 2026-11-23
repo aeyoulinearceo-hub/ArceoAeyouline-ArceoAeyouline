@@ -21,20 +21,20 @@ I am **Aeyouline Margaret Arceo**, a tech enthusiast with a flair for coding and
 ### 🛠️ Skill Sets
 
 **Programming Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java]
+! [JavaScript]
 
 **Databases:**  
-![IBM DB2](https://img.shields.io/badge/IBM%20DB2%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM DB2]
 
 **Tools & Technologies:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) 
-![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B13?style=for-the-badge&logo=lucid&logoColor=white) 
-![Jaspersoft Studio](https://img.shields.io/badge/Jaspersoft_Studio-005A9C?style=for-the-badge&logo=jaspersoft&logoColor=white)
+![HTML5]
+![Eclipse] 
+![Lucidchart]
+![Jaspersoft Studio]
 
 ---
 
 ### 📫 You may reach me at:
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aeyouline-margaret-arceo-619185431)
-* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arceo.aeyoulinemargaret@gmail.com)
+* [![LinkedIn](https://www.linkedin.com/in/aeyouline-margaret-arceo-619185431)
+* [![Gmail](mailto:arceo.aeyoulinemargaret@gmail.com)
